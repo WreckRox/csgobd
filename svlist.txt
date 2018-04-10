@@ -1,10 +1,13 @@
 Server password in FB Group Description - https://facebook.com/groups/csgobd
 
-103.60.172.72:27015 - Mazeda Netwroks CS:GO PUB #1
-103.60.172.72:27015 - Mazeda Netwroks CS:GO PUB #2
-103.60.172.72:27025 - Mazeda Networks CS:GO Match #1
-103.60.172.72:27026 - Mazeda Networks CS:GO Match #2
+103.60.172.72:27015  - Mazeda Netwroks CS:GO PUB #1
+103.60.172.72:27015  - Mazeda Netwroks CS:GO PUB #2
+103.60.172.72:27025  - Mazeda Networks CS:GO Match #1
+103.60.172.72:27026  - Mazeda Networks CS:GO Match #2
 103.222.20.242:27046 - Explore Online CS:GO Retake
 103.222.20.242:27045 - Explore Online CS:GO 1v1
 103.222.20.242:27015 - Explore Online Pub #2
 103.222.20.242:28019 - Explore Online Surf
+103.58.73.20:27015   - B.NET ULV CS:GO Pub #1 by Ragtags
+103.58.73.20:27025   - B.NET CS:GO Match Server #1
+103.58.73.20:27018   - BNET ULV CS:GO Deathmatch by Ragtags
